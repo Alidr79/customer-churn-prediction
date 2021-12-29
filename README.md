@@ -1,6 +1,6 @@
 # Customer churn prediction
 Using ML for customer churn prediction <br>
-Date source : https://www.kaggle.com/shubh0799/churn-modelling<br>
+Data source : https://www.kaggle.com/shubh0799/churn-modelling<br>
 
 Libraries which are used in this notebook:
 1. numpy
